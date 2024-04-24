@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226178768693",
+    "project_id": "translator-app-ce333",
+    "storage_bucket": "translator-app-ce333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226178768693:android:3d265eb7e875a68448367c",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226178768693-l1llc17lttbtavopr2njbiacq9j47kba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtkhz4FEOQTnbMUhiqQBcTIY3winQMNNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226178768693-l1llc17lttbtavopr2njbiacq9j47kba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
